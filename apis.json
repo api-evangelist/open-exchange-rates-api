@@ -1,0 +1,72 @@
+{
+    "name": "Open Exchange Rates API",
+    "description": "The original simple, accurate and transparent exchange rates and currency conversion data API.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1347-.jpg",
+    "tags": [
+        "conversions",
+        "currencies",
+        "exchange",
+        "financial",
+        "have api",
+        "marketplaces"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/open-exchange-rates-api\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Open Exchange Rates API",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1347-.jpg",
+            "humanURL": "https:\/\/openexchangerates.org",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/open-exchange-rates-api-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/openexchangerates.org\/api\/"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/openexchangerates.org\/documentation"
+        },
+        {
+            "type": "Email",
+            "url": "jobs@openexchangerates.org"
+        },
+        {
+            "type": "Email",
+            "url": "support@openexchangerates.org"
+        },
+        {
+            "type": "Email",
+            "url": "privacy@openexchangerates.org"
+        },
+        {
+            "type": "Email",
+            "url": "enterprise@openexchangerates.org"
+        },
+        {
+            "type": "Email",
+            "url": "legal@openexchangerates.org"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/openexchangerates.org"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/openexchangerates.org"
+        }
+    ]
+}
